@@ -10,10 +10,11 @@ The goal of `PROCAD-GUI` is to …
 
 
 ## Tipos de input?
-
+- `fastq`;
+- `bam`;
 
 ## Tipos de output?
-
+- relatório em pdf?
 
 ## Dependencias?
 - `BWA`para short-reads;
