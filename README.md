@@ -23,3 +23,4 @@ The goal of `PROCAD-GUI` is to …
 - `bcftools`;
 - `tabix`;
 - `modkit`;
+- `structure`;
