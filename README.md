@@ -33,3 +33,4 @@ The goal of `PROCAD-GUI` is to …
 - `tabix`;
 - `modkit`;
 - `structure`;
+- `quarto`;
