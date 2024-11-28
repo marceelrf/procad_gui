@@ -7,3 +7,20 @@
 <!-- badges: end -->
 
 The goal of `PROCAD-GUI` is to …
+
+
+## Tipos de input?
+- `fastq`;
+- `bam`;
+
+## Tipos de output?
+- relatório em pdf?
+
+## Dependencias?
+- `BWA`para short-reads;
+- `minimap2` para long-reads;
+- `samtools`;
+- `bcftools`;
+- `tabix`;
+- `modkit`;
+- `structure`;
