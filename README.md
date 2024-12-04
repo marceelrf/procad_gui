@@ -37,3 +37,10 @@ inputs devem ser realizados com
 - `modkit`;
 - `structure`;
 - `quarto`;
+
+# Etapa de desenvolvimento
+
+- `/Teste_Shiny` contém PoC de funcionalidades que incluiremos na versão
+  final;
+- `/Cpp` contém funções em C++ para serem chamadas via `Rcpp`;
+- `/perl` contém scripts em perl para serem utilizados;
