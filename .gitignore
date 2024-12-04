@@ -6,3 +6,9 @@
 .httr-oauth
 .DS_Store
 .quarto
+.bam
+.sam
+.fastq
+.fa
+.fna
+.fasta

@@ -1,7 +1,9 @@
+#include <Rcpp.h>
 #include <iostream>
 #include <string>
 #include <cstdlib> // Para usar system()
 
+// [[Rcpp::export]]
 void runMinimap2(const std::string& input, const std::string& reference, 
                  int threads_num, const std::string& output) {
   // Construção do comando
