@@ -19,8 +19,9 @@ The goal of `PROCAD-GUI` is to …
 
 - `fastq`;
 - `bam`;
-  
-inputs devem ser realizados com [`shinyFiles`](https://github.com/thomasp85/shinyFiles);
+
+inputs devem ser realizados com
+[`shinyFiles`](https://github.com/thomasp85/shinyFiles);
 
 ## Tipos de output?
 
